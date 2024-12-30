@@ -1,24 +1,12 @@
-![Guangchuang's github stats](https://github-readme-stats.vercel.app/api?username=GuangchuangYu&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuangchuangYu&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
-
-
-
-<!--
-**GuangchuangYu/GuangchuangYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ## 👋 Hi there!
 
-My name is Guangchuang and I'm a professor in Department of Bioinformatics at Southern Medical University.
+- I'm a Professor in the Department of Bioinformatics at Southern Medical University
+
+## 🥰 Github Status 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuangchuangYu&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guangchuangyu&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guangchuangyu&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guangchuangyu&theme=zenburn&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guangchuangyu&theme=zenburn&utcOffset=8)
